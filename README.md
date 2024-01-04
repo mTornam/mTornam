@@ -1,8 +1,8 @@
 - 👋 Hi, Emmanuel Mawutornam.
 - 👀 I’m interested in technology and vehicles.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me whatsapp: +233541758730  
+[- 💞️ I’m looking to collaborate on web development projects.
+](url)- 📫 How to reach me whatsapp: +233541758730  
                      twitter: @eMawutornam
 - That's about me for now. 
 
